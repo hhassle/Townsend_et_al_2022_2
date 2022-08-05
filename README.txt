@@ -26,3 +26,4 @@ This directory contains Mathematica notebook calculations for Townsend et al. 20
 
 ~/iqtree_trees/* contains all Mathematica notebooks of IQ-TREE based calculations used to compute waning antibody profiles for cumulative probabilities of breakthrough infection following different booster administration intervals.
 ~/raxml_trees/* contains all Mathematica notebooks of RAxML based calculations used to compute waning antibody profiles for cumulative probabilities of breakthrough infection following different booster administration intervals.
+~/Supplementary_Tables.xlsx contains excel file for supplementary tables 1 and 2.
