@@ -2,7 +2,7 @@
 
 Supplemental Electronic Data files for:
 
-Infection by SARS-CoV-2 under alternate frequencies of mRNA vaccine boosting
+Infection by SARS-CoV-2 with alternate frequencies of mRNA vaccine boosting
 
 Jeffrey P. Townsend PhD 1,2,3,4*, Hayley B. Hassler MS 1, and Alex Dornburg PhD 5
 
