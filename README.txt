@@ -25,5 +25,5 @@ hayley.hassler@yale.edu
 This directory contains Mathematica notebook calculations for Townsend et al. 2022_2.
 
 ~/ViralImmunityAnalysis-antiRBD-alshukairi-mrna1273-gudbjartsson.nb contains main mRNA-1273 Mathematica notebook of IQ-TREE based calculations used to compute waning antibody profiles for cumulative probabilities of breakthrough infection following different booster administration intervals.
-~/ViralImmunityAnalysis-antiRBD-alshukairi-BNT162b2-gudbjartsson.nb ntains main BNT162b2 Mathematica notebook of IQ-TREE based calculations used to compute waning antibody profiles for cumulative probabilities of breakthrough infection following different booster administration intervals.
+~/ViralImmunityAnalysis-antiRBD-alshukairi-BNT162b2-gudbjartsson.nb contains main BNT162b2 Mathematica notebook of IQ-TREE based calculations used to compute waning antibody profiles for cumulative probabilities of breakthrough infection following different booster administration intervals.
 ~/Supplementary_tables.xlsx excel file for supplementary tables 1 and 2.
